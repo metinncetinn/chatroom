@@ -10,7 +10,6 @@ This project is a chatroom application developed in Python, utilizing TCP and UD
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Contribution](#contribution)
-- [License](#license)
 
 ## Features
 
